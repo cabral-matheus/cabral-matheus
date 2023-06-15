@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cabral-matheus
 - 👀 I’m interested in developing my programming skills and here I will share my progress. 
-- 🌱 I’m currently learning C# and improving java.
+- 🌱 I’m currently learning C# and improving Java.
 
 <!---
 cabral-matheus/cabral-matheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
